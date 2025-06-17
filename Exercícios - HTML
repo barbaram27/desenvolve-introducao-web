@@ -1,0 +1,17 @@
+1. Servem para marcar e definir os elementos da página, como parágrafos, títulos, imagens, links, etc.
+2. Um elemento vazio é uma tag HTML que não possui conteúdo interno (não tem corpo) e não precisa de tag de fechamento.Eles são usados para inserir algo direto, como imagens, quebras de linha, ou metadados. <br> → Quebra de linha, <img> → Inserir imagem.
+3. file:///C:/Users/PDITA000/Documents/pagina.html Quando  clica no link “surpresa”, é redirecionado para um vídeo no YouTube.
+4. a. Quais elementos são os vizinhos de <main>?<header> (antes)
+<footer> (depois)
+São os irmãos/vizinhos de <main> pois estão no mesmo nível dentro do <body>.
+b.Quais elementos são os ancestrais de <ul>?
+<html>, <body>, <header>, <nav>. Todos esses elementos envolvem o <ul>, por isso são considerados ancestrais.
+c. Quais elementos são filhos de <header>?
+<h1>, <nav>. Eles estão diretamente dentro do <header>, então são os filhos dele.
+d. Qual o nível de profundidade do aninhamento entre <html> e <strong> do primeiro artigo?
+<html>
+<body>
+<main>
+<article> (primeiro)
+<p>
+<strong> 6 níveis de profundidade.
